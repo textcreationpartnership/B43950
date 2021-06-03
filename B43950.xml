@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several complaints of merchants and traders of London and other ports of this kingdom against the commissioners and officers of the customs.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43950</idno><idno type="EEBO-CITATION">625106360</idno>
+  <idno type="VID">211339</idno>
+  <idno type="EEBO-PROQUEST">2240859564</idno>
+  
+            <idno type="OCLC"> 625106360</idno>
+            <idno type="OCLC">ocn 625106360</idno>
+            <idno type="STC">Wing S2754</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211339)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several complaints of merchants and traders of London and other ports of this kingdom against the commissioners and officers of the customs.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: creased and stained.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Commissioners of Customs --  Early works to 1800.</term>
+               <term type="topical_term">Merchants --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211339:1"/>
+            <pb n="1" facs="tcp:211339:2"/>
+            <head>
+               <hi>Several Complaints of Merchants and Traders of</hi> London, <hi>and other Ports of this Kingdom against the Commissi<g ref="char:EOLhyphen"/>oners and Officers of the Customs</hi>
+            </head>
+            <p>THat by the Act of Tonnage and Poundage, 12 <hi>Car.</hi> 2. amongst other things it is provided and Enacted that all Merchants as well Denizens, as Strangers, coming into this Realm, shall be well and honestly entreated, and demeaned for such things as Subsidy by the said Act is granted, without oppression to them to be done, &amp;c.</p>
+            <p n="1">I. That the Commissioners of the Customs have of late, contrary to the said Act af<g ref="char:EOLhyphen"/>fronted and abused Merchants with scurrilous and foul Language, and other bad treat<g ref="char:EOLhyphen"/>ment, to the great discouragement of Trade, and oppression of the said Merchants; who have been forced to be at great expences in Law-suits for their Just-rights: and fur<g ref="char:EOLhyphen"/>ther where Merchants have petitioned the Lords Commissioners of the Treasury to be releived in cases of the like nature, such petitions have been referred to the said Com<g ref="char:EOLhyphen"/>missioners of the Customs for them to examine the contents and report their opinions thereupon to the said Lords Commissioners, wherein also the said Merchants have been treated and abused as aforesaid by the said Commissioners of the Customs.</p>
+            <p n="2">II. That by the twenty Fourth Rule of the Book of Rates, made part of the abovesaid Act of Tonnage and Poundage, it is also provided that for avoiding all oppression by any of the Officers of the Customs in any Port of this Kingdom in exacting unreasonable Fees from the Merchant by reason of any Entry, or otherwise touching the shipping or unshipping of any Goods, Wares and Merchandises, no Officer, Clerk, or other be<g ref="char:EOLhyphen"/>longing to any Custom-house whatsoever, shall exact, requite, or receive, any other or greater Fee of any Merchant or other whatsoever, than such as are or shall be establish<g ref="char:EOLhyphen"/>ed by the Commons in Parliament Assembled, That if any Officer shall offend, contrary to the said Rule, he shall forfeit his Office and place, and be for ever after incapable of any Office in the Custom-house: That notwithstanding, the said Commissioners of the Customs have not only countenanced their Officers in exacting unreasonable Fees of Merchants and others, where no Fees were due, but also have by false suggestions pro<g ref="char:EOLhyphen"/>cured several <hi>Noli Prosequies</hi> to be Entered up upon several Informations brought and ex<g ref="char:EOLhyphen"/>hibited in the Court of Exchequer against Officers for exacting such unreasonable Fees, whereby fair Merchants and Traders have been greatly oppressed.</p>
+            <p n="3">III. By the 11th. Rule in the book of Rates, also made part of the abovesaid Act of Tonnage and Poundage, it is declared that if any Tobacco or other Goods or Merchan<g ref="char:EOLhyphen"/>dise brought into this Kingdom, shall receive any dammage by Salt-water or otherwise; so that the owner thereof shall be prejudiced in the Sale of such Goods, the principal Officers of the Custom-house, or any two of them, whereof the Collector for the time being to be one, shall have power to Choose two indifferent Merchants experienced in the value of such Goods, who upon visiting the said Goods shall certifie and declare upon their corporal Oaths, first administred by the said Officers, what dammage such Goods have received, and are lessened in their true value, and according to such dammage, in relation to the Rates set on them in this book, the said Officers are to make a propor<g ref="char:EOLhyphen"/>tionable abatement unto the Merchant or Owner of the Subsidy due for the same.</p>
+            <p>That, notwithstanding the said Rule and the good Provision thereby for the ease of Merchants, and encouragement of Trade, the said Commissioners have from time to time denyed to permit Merchants to be chosen and sworn for viewing of dammages and cer<g ref="char:EOLhyphen"/>tifying allowances, as by the said Rule is directed, but on the contrary have appointed Surveyors, and other Officers of their own to view such dammages, and to make such allowances, as to them only have seemed meet, denying to hear any complaint of Mer<g ref="char:EOLhyphen"/>chants, though never so justly aggrieved in the premises, and instead of making abate<g ref="char:EOLhyphen"/>ment of such dammages, as their said Officers have allowed, off from the Original-Entry, or Post-Entry, Merchants have been forced to Enter and pay Custome for their whole quantities, and to be at the trouble and charge of Certificates for such allowances, <hi>&amp;c.</hi> to the great injury of Merchants, discouragement of Trade, and contrary to the above<g ref="char:EOLhyphen"/>said Rule.</p>
+            <p n="4">
+               <pb n="2" facs="tcp:211339:3"/> IV. That by several Acts of Parliament made in the Reigns of <hi>Edward the 4th. Richard the</hi> 3<hi>d. Henry the 8th.</hi> and <hi>Carolu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the</hi> 2<hi>d.</hi> for many good reasons therein contained, a<g ref="char:EOLhyphen"/>mongst other things, Iron wyre, otherwise called White-wyre; Bone-lace, Buttons, and all manner of foreign Needle work are prohibited to be brought into this Kingdom, <hi>&amp;c.</hi> that notwithstanding the said Acts of Parliament, great quantities of the said Com<g ref="char:EOLhyphen"/>modities have been of late imported into this said Kingdom; by the encouragement of the said Commissioners upon payment of Custom, thereby frustrating the good intent of the said Laws, and impoverishing His Majesties Subjects employed in the manufacturing of the said Commodities in <hi>England,</hi> &amp;c.</p>
+            <p n="5">V. That by several other Acts made in the 18th. 20th. and 23d. years of the Reign of King <hi>Charles</hi> the second, all live Cattel, Beef, Pork and Bacon, and Fish taken by Foreigners are also prohibited to be brought into this Kingdom from <hi>Ireland,</hi> or any other Foreign Parts, under the penalty of the forfeiture of all such the said Cattel and Goods, so brought into this Kingdom, as also of the Ships and Vessels in which they are Import<g ref="char:EOLhyphen"/>ed, and makes the Importation of the said Cattel and Goods, a common Nuisance, and the avoiding and evading any of the penalties contained in the said Act to be <hi>Premunire.</hi>
+            </p>
+            <p>That notwithstanding all which, the said Commissioners and Officers, sometimes upon payment of Custom, and at other times by pretended seizures of the said Goods for pri<g ref="char:EOLhyphen"/>vate rewards have combined with Foreigners and others, and caused to be imported great quantities of the Goods so prohibited by the said Acts, to the great decay of the Fishery of the Nation; and to the great prejudice of the Graziers, the Breeders of Cattel and Hogs, and the Curers of English Bacon, and other Traders of this Kingdom, and in high Contempt to the Authority of Parliament.</p>
+            <p n="6">VI That by an Act in the 29th and 30th years of King <hi>Charles</hi> II. all <hi>French</hi> Wines, Brandy, and other <hi>French</hi> Goods, for the Reasons therein contained, were prohibited to be Imported into this Kingdom, under the penalty of the forfeiture of the said Goods, <hi>viz.</hi> The Wines and Brandy to be staved, and the other Goods to be burnt, and also of the value of the said Goods to be recovered of the Importers, one Moiety thereof to the Poor of the Parish, where the said Goods should happen to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e siezed, and the other Moiety to him or them that should sieze and sue for the same: And also the Importa<g ref="char:EOLhyphen"/>tion of any of the said Goods was by the said Act declared to be a common Nuisance, and the Commissioners and Officers of the Customs were thereby required not only to sieze and prosecute, but to be aiding and assisting to all others in si<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing and prosecuting the same. That notwithstanding the said Act, and the good provision thereby, the said Commissioners and Officers of the Customs, did not only encourage Merchants to Im<g ref="char:EOLhyphen"/>port great quantities thereof, and to enter and pay Custom for the same, under sham denominations, but also did, as much as in them lay, discourage all persons who did endeavour to sieze any of the Goods prohibited by the said Act, or prosecute persons Importing the same.</p>
+            <p n="7">VII. That by one other Act made in the 12th year of King <hi>Charles</hi> the II. Entitu<g ref="char:EOLhyphen"/>led, <hi>An Act for encouraging and encreasing the Shipping and Navigation of this Kingdom,</hi> wherein, by the good Providence of God, the Wealth, Safety and Strength thereof is so much concerned: No Goods or Commodities whatsoever of the growth, produ<g ref="char:EOLhyphen"/>ction, or manufacture of <hi>Asia, Africa</hi> or <hi>America;</hi> or of any part thereof, <hi>&amp;c.</hi> shall be Imported into <hi>England, &amp;c.</hi> in any other Ships or Vessels whatsoever, but in such as do truly, and without fraud, belong only to the people of <hi>England, &amp;c.</hi> and that no Goods or Commodities, that are of Foreign growth, production, or manufacture, shall be brought into this Kingdom, <hi>&amp;c.</hi> in any Shipping whatsoever; from any place what<g ref="char:EOLhyphen"/>soever; but only from the place of their said growth, production or manufacture, or from such Port or place where the said Commodities can only, or are, or usually have been first Shipped for Transportation, under the penalty of the forfeiture of all such Goods, together with the Ships and Vessels, with all their Furniture, Tackle and Apparel, in which they, or any of them, shall be Imported; That the said Commissioners and Officers of the Customs, have (under pretence of improving the said Customs) encou<g ref="char:EOLhyphen"/>raged the Importation of the said Commodities from <hi>Holland</hi> and other places, in For<g ref="char:EOLhyphen"/>reign Shipping, <hi>&amp;c.</hi> contrary to the true intent and meaning of the said Act, and in contempt of the same, to the great prejudice, not only of the Shipping of this King<g ref="char:EOLhyphen"/>dom, (which have been thereby lessened near a third part in their real value) but also to the great discouragement of the Seamen thereof, who have also been thereby (toge<g ref="char:EOLhyphen"/>ther with the hard usage of the said Commissioners in other trivial matters) forced to Sail with Foreign Nations.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
